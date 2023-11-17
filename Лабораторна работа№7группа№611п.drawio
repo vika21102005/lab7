@@ -1,0 +1,287 @@
+<mxfile host="Electron" modified="2023-11-10T06:27:56.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="E67WfhtNw9IaQA1UwTk0" version="21.7.5" type="device">
+  <diagram name="Страница — 1" id="-vDeeMiqj6R4WdK6f8e2">
+    <mxGraphModel dx="-378" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCFF99;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="358" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-86" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="610" as="sourcePoint" />
+            <mxPoint x="2000" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="450" />
+              <mxPoint x="2000" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-89" value="оформлення замовлення покупця" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="490" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-90" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-89" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="610" as="sourcePoint" />
+            <mxPoint x="2070" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2040" y="460" />
+              <mxPoint x="2070" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-91" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="375" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-92" value="замовлення" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2025" y="418" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-93" value="журнал&amp;nbsp;&lt;br&gt;замовлення" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="408" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-95" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.135;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-89" target="UMPGcRD8A0DY5XGWmxC5-93" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="610" as="sourcePoint" />
+            <mxPoint x="2130" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2130" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-96" value="реєстрація&lt;br&gt;рахунку&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="585" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.571;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-89" target="UMPGcRD8A0DY5XGWmxC5-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="610" as="sourcePoint" />
+            <mxPoint x="2180" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2043" y="570" />
+              <mxPoint x="2110" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-99" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="610" as="sourcePoint" />
+            <mxPoint x="2210" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2190" y="610" />
+              <mxPoint x="2190" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-100" value="реєстр &lt;br&gt;рахунків" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="2210" y="525" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-101" value="контроль платіжів,&lt;br&gt;що надійшли від покупця" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="710" as="sourcePoint" />
+            <mxPoint x="2160" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2120" y="650" />
+              <mxPoint x="2160" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-103" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1970" y="450" as="sourcePoint" />
+            <mxPoint x="2000" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="490" />
+              <mxPoint x="1950" y="490" />
+              <mxPoint x="1950" y="570" />
+              <mxPoint x="2000" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-104" value="оброботка бухгалтерії оплачених рахунків" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.35;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-104" target="UMPGcRD8A0DY5XGWmxC5-101" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="710" as="sourcePoint" />
+            <mxPoint x="2180" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2160" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-107" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.4;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="810" as="sourcePoint" />
+            <mxPoint x="1980" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2000" y="800" />
+              <mxPoint x="1980" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-108" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="820" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-109" value="касовий ордер" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1915" y="860" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-110" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.667;exitY=1.047;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="810" as="sourcePoint" />
+            <mxPoint x="2080" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2030" y="820" />
+              <mxPoint x="2080" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-112" value="виписки банку,&lt;br&gt;реєстр оплат" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="2060" y="860" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-113" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.578;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-104" target="UMPGcRD8A0DY5XGWmxC5-100" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="710" as="sourcePoint" />
+            <mxPoint x="2260" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2120" y="770" />
+              <mxPoint x="2260" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-101" target="UMPGcRD8A0DY5XGWmxC5-115" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="710" as="sourcePoint" />
+            <mxPoint x="2330" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2290" y="700" />
+              <mxPoint x="2290" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-115" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="2330" y="610" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-115" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="710" as="sourcePoint" />
+            <mxPoint x="2440" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2355" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-117" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;рахунок не &lt;br&gt;оплачений&lt;br&gt;(термін закінчився)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2356" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-118" value="відмітка про&lt;br&gt;недійсність замовлення" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#0000CC;" parent="1" vertex="1">
+          <mxGeometry x="2420" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-119" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-115" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="610" as="sourcePoint" />
+            <mxPoint x="2480" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-120" value="рахунок &lt;br&gt;оплачений" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2380" y="593" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-121" value="відмітка об&lt;br&gt;&amp;nbsp;оплаті" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000CC;" parent="1" vertex="1">
+          <mxGeometry x="2481" y="600" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-121" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="620" as="sourcePoint" />
+            <mxPoint x="2470" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2526" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-123" value="оформлення&lt;br&gt;товарної накладної" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-124" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-123" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="620" as="sourcePoint" />
+            <mxPoint x="2460" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2420" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-125" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;" parent="1" vertex="1">
+          <mxGeometry x="2460" y="770" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-126" value="товарна накладна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="820" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-123" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="620" as="sourcePoint" />
+            <mxPoint x="2650" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-128" value="видача товару" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-130" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.676;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-121" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="520" as="sourcePoint" />
+            <mxPoint x="2670" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2540" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-118" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="520" as="sourcePoint" />
+            <mxPoint x="2670" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2580" y="470" />
+              <mxPoint x="2580" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-134" value="формування звіту&lt;br&gt;о кількості замовлень" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="483" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-135" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-134" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2430" y="620" as="sourcePoint" />
+            <mxPoint x="2730" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-136" value="звіт" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="2700" y="395" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-128" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2790" y="760" as="sourcePoint" />
+            <mxPoint x="2790" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2790" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-138" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="2770" y="593" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="UMPGcRD8A0DY5XGWmxC5-139" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UMPGcRD8A0DY5XGWmxC5-134" target="UMPGcRD8A0DY5XGWmxC5-138" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2430" y="620" as="sourcePoint" />
+            <mxPoint x="2850" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2850" y="513" />
+              <mxPoint x="2850" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
